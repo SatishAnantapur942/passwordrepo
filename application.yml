@@ -1,3 +1,4 @@
-name.user=satish
-name.password=ab[]aflkj@jaflk
-name.dbpassword=abc902(())
+name.user: satish
+name.password: ab[]aflkj@jaflk
+name.dbpassword: abc902(())
+name.passwords: aflkjaf
